@@ -1,2 +1,0 @@
-# Joyesh-Singha
-print("Hello")
